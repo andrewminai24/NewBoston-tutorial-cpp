@@ -6,7 +6,7 @@ int andrew = 20;
 
 int main(void)
 {
-    int andrew = 21;
+    double andrew = 21.1;
     //This :: says that to use to global variable
     cout << ::andrew << endl;
 }
